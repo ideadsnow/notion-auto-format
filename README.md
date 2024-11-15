@@ -28,7 +28,7 @@ Due to Notion API rate limits and performance constraints of the editing interfa
 
 2. Navigate to the project directory:
    ```bash
-   cd Notion-Auto-Format
+   cd notion-auto-format
    ```
 
 3. Install the required dependencies:

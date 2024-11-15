@@ -28,7 +28,7 @@ Notion-Auto-Format 是一款能够自动格式化指定 Notion 文档的工具�
 
 2. 进入项目目录：
    ```bash
-   cd Notion-Auto-Format
+   cd notion-auto-format
    ```
 
 3. 安装所需的依赖：
