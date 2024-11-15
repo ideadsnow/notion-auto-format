@@ -21,7 +21,7 @@ Notion-Auto-Format 是一款能够自动格式化指定 Notion 文档的工具�
 
 1. 克隆这个仓库：
    ```bash
-   git clone https://github.com/yourusername/Notion-Auto-Format.git
+   git clone https://github.com/ideadsnow/notion-auto-format.git
    ```
 
 2. 进入项目目录：

@@ -23,7 +23,7 @@ Due to Notion API rate limits and performance constraints of the editing interfa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Notion-Auto-Format.git
+   git clone https://github.com/ideadsnow/notion-auto-format.git
    ```
 
 2. Navigate to the project directory:
