@@ -37,7 +37,7 @@ Due to Notion API rate limits and performance constraints of the editing interfa
    ```
 
 4. **Configure the Notion Token**:
-   Make sure to manually replace `NOTION_TOKEN = "your_integration_token"` in the code with your own Notion integration token. You can create your integration and obtain the token at this address: [Create Notion Integration](https://www.notion.so/profile/integrations).
+   Make sure to manually replace `NOTION_TOKEN = "your_integration_token"` in the code with your own Notion integration token. You can create your integration and obtain the token here: [Create Notion Integration](https://www.notion.so/profile/integrations).
 
 ## Usage
 
@@ -49,6 +49,13 @@ The specific usage is:
 ```bash
 usage: format_notion.py [-h] page_id
 ```
+
+
+**Where can I find my page's ID?**
+> Open the page in Notion. Use the Share menu to Copy link. Now paste the link in your text editor so you can take a closer look. The URL ends in a page ID.
+It should be a 32 character long string. Format this value by inserting hyphens (-) in the following pattern: 8-4-4-4-12 (each number is the length of characters between the hyphens).
+Example: 1429989fe8ac4effbc8f57f56486db54 becomes 1429989f-e8ac-4eff-bc8f-57f56486db54.
+This value is your page ID.
 
 ## License
 
