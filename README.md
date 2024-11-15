@@ -1,6 +1,6 @@
 # Notion-Auto-Format
 
-| See also in Chinese: **[中文文档](README.zh.md)**
+> See also in Chinese: **[中文文档](README.zh.md)**
 
 Notion-Auto-Format is a tool that automatically formats specified Notion documents. It currently supports adding spaces between Chinese and English text, as well as between Chinese and numbers in document titles and bodies.
 

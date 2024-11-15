@@ -1,5 +1,7 @@
 # Notion-Auto-Format
 
+> 查看英文文档：**[README in English](README.md)**
+
 Notion-Auto-Format 是一款能够自动格式化指定 Notion 文档的工具。它目前支持在文档标题和正文中将中文与英文、中文与数字之间添加空格。
 
 ## 特性
