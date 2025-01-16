@@ -43,11 +43,11 @@ Notion-Auto-Format 是一款能够自动格式化指定 Notion 文档的工具�
 
 要使用 Notion-Auto-Format，可以通过运行以下命令查看使用说明：
 ```bash
-python format_notion.py -h
+python auto_format.py -h
 ```
 具体的使用方式为：
 ```bash
-usage: format_notion.py [-h] page_id
+usage: auto_format.py [-h] page_id
 ```
 
 **从哪里找到我的文档 ID？**

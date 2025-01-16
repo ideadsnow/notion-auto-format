@@ -43,11 +43,11 @@ Due to Notion API rate limits and performance constraints of the editing interfa
 
 To use Notion-Auto-Format, you can check the usage instructions by running:
 ```bash
-python format_notion.py -h
+python auto_format.py -h
 ```
 The specific usage is:
 ```bash
-usage: format_notion.py [-h] page_id
+usage: auto_format.py [-h] page_id
 ```
 
 
